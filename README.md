@@ -8,4 +8,6 @@ The compilation of the military dataset involved the utilization of diverse sour
 
 # Dataset instances
 Some samples of the Chinese military relation extraction dataset are shown below:
-![Dataset samples](https://github.com/JhxCUGBCS/PTRSDP/blob/main/%E6%95%B0%E6%8D%AE%E6%A0%B7%E4%BE%8B.jpg)
+![Dataset samples](https://github.com/JhxCUGBCS/PTRSDP/blob/main/%E6%95%B0%E6%8D%AE%E6%A0%B7%E4%BE%8B.jpg)<br>
+
+In the military folder under Dataset, more than 3000 pieces of data are provided.
